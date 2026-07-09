@@ -1,4 +1,4 @@
-# Reys Cloud labs
+# Reyes Cloud labs
 
 This repository documens my journey learning Java and software engineering by building the foundations of my own cloud service/self hostedf platform 
 
